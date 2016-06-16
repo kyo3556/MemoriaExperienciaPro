@@ -2,7 +2,7 @@ I. Introducción
 
 La empresa Química Sagal dedicada al sector de la agroindustria, en específico a los agroquímicos, ha ido creciendo a lo largo de los años, por lo que, desde el pasado reciente (2009) implemento un sistema de planificación de recursos empresariales (ERP, por sus siglas en ingles), desarrollado por Intrasoft, el cual es denominado: Sistema Integral o Relacional Soft.
 
-Dicho sistema se ha ido adaptando a los cambios de la empresa, y ya que en la actualidad mueve una gran cantidad de toneladas de sus productos entre sus almacenes internos y sus clientes. Se ha visto la necesidad de ir evolucionando el módulo de Almacén para que pueda controlar, de manera eficiente sus inventarios, así como también la producción y materia prima.
+Dicho sistema se ha ido adaptando a los cambios de la empresa, y ya que en la actualidad mueve una gran cantidad de sus productos entre la planta, bodegas y tiendas, es necesario hacerlos llegar a tiempo. Por lo que, tuvo la necesidad de continuar mejorando el módulo de Almacén para que pueda controlar de manera eficiente sus inventarios, tanto en su materia prima como en la producción.
 
 Como el volumen de productos sigue en aumento, Sagal encargo el desarrollo de una aplicación móvil, con el efecto de extender la funcionalidad del Sistema Integral en el control del inventario. Intrasoft definió entonces que la mejor solución era implementar códigos de barras para los productos terminados.
 
